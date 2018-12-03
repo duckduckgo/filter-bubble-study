@@ -1,0 +1,1 @@
+pyxDamerauLevenshtein >= 1.5
