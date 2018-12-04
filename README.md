@@ -29,6 +29,9 @@ $ python measure_difference.py
 
 ## Reference
 
+For the filter bubble study report, please see here:
+* https://spreadprivacy.com/google-filter-bubble-study/
+
 See also the spreadsheets containing all data from the study here:
 * https://duckduckgo.com/download/duckduckgo-filter-bubble-study-2018_participants.xls
 * https://duckduckgo.com/download/duckduckgo-filter-bubble-study-2018_raw-search-results.xls
